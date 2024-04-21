@@ -1,5 +1,5 @@
 =================
-ucsc-cse160-webgl
+ucsc-cse160-three
 =================
 
 Git repository for UCSC *CSE 160* ``Three.js`` -related programming assignments
